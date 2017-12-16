@@ -14,6 +14,8 @@ In this project we attempt to reproduce the results of the following paper:
 }
 ```
 
+The code base is a fork of the source code provided by the authors; https://github.com/taolei87/sru
+
 <br>
 
 ## Progress
