@@ -24,10 +24,7 @@ In this project we attempt to reproduce the results of the following paper:
 - [X] Reproduce classification model
 - [X] Reproduce question answering model
 - [X] Reproduce langauge model
-- [A] Reproduce speech model
-
-X - Complete
-A - Attempted but failed to reproduce
+- [X] Reproduce speech model (Attempted but failed to reproduce)
 
 ## Requirements
  - **GPU and CUDA 8 are required**
